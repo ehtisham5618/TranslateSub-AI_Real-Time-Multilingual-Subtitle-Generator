@@ -1,0 +1,21 @@
+.usg-subtitle-overlay {
+  position: absolute;
+  left: 50%;
+  bottom: 8%;
+  transform: translateX(-50%);
+  z-index: 9999;
+
+  max-width: 80%;
+  padding: 10px 14px;
+  border-radius: 8px;
+
+  background: rgba(0, 0, 0, 0.72);
+  color: #ffffff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  line-height: 1.4;
+  text-align: center;
+
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+  pointer-events: none;
+}
