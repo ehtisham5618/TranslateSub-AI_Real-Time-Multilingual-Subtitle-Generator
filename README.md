@@ -167,30 +167,6 @@ uvicorn app:app --reload
 
 ---
 
-## 📂 Project Structure
-
-```text
-TranslateSub-AI/
-│
-├── backend/
-│   ├── app.py
-│   ├── websocket/
-│   ├── inference/
-│   └── vad/
-│
-├── extension/
-│   ├── manifest.json
-│   ├── popup/
-│   └── content_scripts/
-│
-├── assets/
-├── screenshots/
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 👨‍💻 Author
 
 **Ehtisham Abid**  
